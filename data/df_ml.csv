@@ -1,0 +1,344 @@
+id_venta,id_cliente,id_producto,fecha,trimestre,ciudad,fecha_alta,días_desde_alta,cliente_antiguo,categoria,cantidad,precio_unitario_catalogo,precio_unitario_venta,importe,medio_pago
+84,72,76,2024-01-02,1,Cordoba,2023-03-13,295,False,Limpieza,4,4286,4286,17144,efectivo
+84,72,83,2024-01-02,1,Cordoba,2023-03-13,295,False,Alimentos,5,1830,1830,9150,efectivo
+55,100,39,2024-01-04,1,Cordoba,2023-04-10,269,False,Alimentos,4,469,469,1876,qr
+8,66,18,2024-01-06,1,Villa Maria,2023-03-07,305,False,Limpieza,4,3444,3444,13776,transferencia
+8,66,53,2024-01-06,1,Villa Maria,2023-03-07,305,False,Alimentos,5,1664,1664,8320,transferencia
+8,66,68,2024-01-06,1,Villa Maria,2023-03-07,305,False,Limpieza,5,2684,2684,13420,transferencia
+69,42,74,2024-01-06,1,Alta Gracia,2023-02-11,329,False,Limpieza,3,2953,2953,8859,qr
+69,42,76,2024-01-06,1,Alta Gracia,2023-02-11,329,False,Limpieza,4,4286,4286,17144,qr
+90,46,6,2024-01-08,1,Alta Gracia,2023-02-15,327,False,Limpieza,2,4170,4170,8340,qr
+90,46,79,2024-01-08,1,Alta Gracia,2023-02-15,327,False,Alimentos,4,2420,2420,9680,qr
+50,8,10,2024-01-09,1,Carlos Paz,2023-01-08,366,True,Limpieza,2,4883,4883,9766,transferencia
+50,8,32,2024-01-09,1,Carlos Paz,2023-01-08,366,True,Limpieza,3,2234,2234,6702,transferencia
+50,8,34,2024-01-09,1,Carlos Paz,2023-01-08,366,True,Limpieza,5,503,503,2515,transferencia
+50,8,58,2024-01-09,1,Carlos Paz,2023-01-08,366,True,Limpieza,5,4752,4752,23760,transferencia
+50,8,91,2024-01-09,1,Carlos Paz,2023-01-08,366,True,Alimentos,4,4690,4690,18760,transferencia
+57,34,9,2024-01-10,1,Villa Maria,2023-02-03,341,False,Alimentos,5,3878,3878,19390,efectivo
+57,34,31,2024-01-10,1,Villa Maria,2023-02-03,341,False,Alimentos,3,3409,3409,10227,efectivo
+57,34,41,2024-01-10,1,Villa Maria,2023-02-03,341,False,Alimentos,4,860,860,3440,efectivo
+57,34,76,2024-01-10,1,Villa Maria,2023-02-03,341,False,Limpieza,3,4286,4286,12858,efectivo
+57,34,98,2024-01-10,1,Villa Maria,2023-02-03,341,False,Limpieza,4,2843,2843,11372,efectivo
+86,40,1,2024-01-10,1,Rio Cuarto,2023-02-09,335,False,Alimentos,4,2347,2347,9388,efectivo
+86,40,13,2024-01-10,1,Rio Cuarto,2023-02-09,335,False,Alimentos,5,2383,2383,11915,efectivo
+86,40,41,2024-01-10,1,Rio Cuarto,2023-02-09,335,False,Alimentos,3,860,860,2580,efectivo
+86,40,66,2024-01-10,1,Rio Cuarto,2023-02-09,335,False,Limpieza,2,1533,1533,3066,efectivo
+98,43,28,2024-01-12,1,Mendiolaza,2023-02-12,334,False,Limpieza,4,936,936,3744,transferencia
+98,43,29,2024-01-12,1,Mendiolaza,2023-02-12,334,False,Alimentos,1,1868,1868,1868,transferencia
+98,43,61,2024-01-12,1,Mendiolaza,2023-02-12,334,False,Alimentos,1,4982,4982,4982,transferencia
+98,43,83,2024-01-12,1,Mendiolaza,2023-02-12,334,False,Alimentos,3,1830,1830,5490,transferencia
+3,20,2,2024-01-13,1,Rio Cuarto,2023-01-20,358,False,Limpieza,2,4973,4973,9946,tarjeta
+3,20,9,2024-01-13,1,Rio Cuarto,2023-01-20,358,False,Alimentos,2,3878,3878,7756,tarjeta
+3,20,85,2024-01-13,1,Rio Cuarto,2023-01-20,358,False,Alimentos,1,1856,1856,1856,tarjeta
+20,75,32,2024-01-13,1,Rio Cuarto,2023-03-16,303,False,Limpieza,3,2234,2234,6702,tarjeta
+34,58,10,2024-01-13,1,Rio Cuarto,2023-02-27,320,False,Limpieza,1,4883,4883,4883,transferencia
+34,58,32,2024-01-13,1,Rio Cuarto,2023-02-27,320,False,Limpieza,5,2234,2234,11170,transferencia
+89,17,72,2024-01-18,1,Villa Maria,2023-01-17,366,True,Limpieza,2,3876,3876,7752,tarjeta
+45,15,12,2024-01-19,1,Cordoba,2023-01-15,369,True,Limpieza,2,570,570,1140,efectivo
+45,15,18,2024-01-19,1,Cordoba,2023-01-15,369,True,Limpieza,2,3444,3444,6888,efectivo
+45,15,52,2024-01-19,1,Cordoba,2023-01-15,369,True,Limpieza,2,2582,2582,5164,efectivo
+45,15,87,2024-01-19,1,Cordoba,2023-01-15,369,True,Alimentos,4,1679,1679,6716,efectivo
+45,15,98,2024-01-19,1,Cordoba,2023-01-15,369,True,Limpieza,1,2843,2843,2843,efectivo
+112,28,13,2024-01-19,1,Cordoba,2023-01-28,356,False,Alimentos,2,2383,2383,4766,tarjeta
+112,28,21,2024-01-19,1,Cordoba,2023-01-28,356,False,Alimentos,4,272,272,1088,tarjeta
+112,28,43,2024-01-19,1,Cordoba,2023-01-28,356,False,Alimentos,5,887,887,4435,tarjeta
+112,28,55,2024-01-19,1,Cordoba,2023-01-28,356,False,Alimentos,1,1407,1407,1407,tarjeta
+112,28,59,2024-01-19,1,Cordoba,2023-01-28,356,False,Alimentos,1,3612,3612,3612,tarjeta
+9,86,65,2024-01-20,1,Cordoba,2023-03-27,299,False,Alimentos,4,2423,2423,9692,efectivo
+26,49,79,2024-01-23,1,Rio Cuarto,2023-02-18,339,False,Alimentos,2,2420,2420,4840,efectivo
+26,49,86,2024-01-23,1,Rio Cuarto,2023-02-18,339,False,Limpieza,1,4090,4090,4090,efectivo
+85,42,32,2024-01-23,1,Alta Gracia,2023-02-11,346,False,Limpieza,4,2234,2234,8936,transferencia
+85,42,80,2024-01-23,1,Alta Gracia,2023-02-11,346,False,Limpieza,2,1981,1981,3962,transferencia
+13,6,13,2024-01-24,1,Villa Maria,2023-01-06,383,True,Alimentos,1,2383,2383,2383,tarjeta
+13,6,81,2024-01-24,1,Villa Maria,2023-01-06,383,True,Alimentos,3,2520,2520,7560,tarjeta
+13,6,87,2024-01-24,1,Villa Maria,2023-01-06,383,True,Alimentos,1,1679,1679,1679,tarjeta
+53,56,28,2024-01-25,1,Rio Cuarto,2023-02-25,334,False,Limpieza,1,936,936,936,tarjeta
+82,19,28,2024-01-25,1,Mendiolaza,2023-01-19,371,True,Limpieza,2,936,936,1872,tarjeta
+82,19,29,2024-01-25,1,Mendiolaza,2023-01-19,371,True,Alimentos,5,1868,1868,9340,tarjeta
+82,19,38,2024-01-25,1,Mendiolaza,2023-01-19,371,True,Limpieza,1,1584,1584,1584,tarjeta
+82,19,82,2024-01-25,1,Mendiolaza,2023-01-19,371,True,Limpieza,2,2394,2394,4788,tarjeta
+48,84,54,2024-01-26,1,Cordoba,2023-03-25,307,False,Limpieza,5,1592,1592,7960,qr
+48,84,57,2024-01-26,1,Cordoba,2023-03-25,307,False,Alimentos,4,4520,4520,18080,qr
+48,84,70,2024-01-26,1,Cordoba,2023-03-25,307,False,Limpieza,1,4061,4061,4061,qr
+93,90,66,2024-01-29,1,Rio Cuarto,2023-03-31,304,False,Limpieza,3,1533,1533,4599,efectivo
+93,90,80,2024-01-29,1,Rio Cuarto,2023-03-31,304,False,Limpieza,4,1981,1981,7924,efectivo
+93,90,91,2024-01-29,1,Rio Cuarto,2023-03-31,304,False,Alimentos,3,4690,4690,14070,efectivo
+32,31,17,2024-01-30,1,Villa Maria,2023-01-31,364,False,Alimentos,3,4834,4834,14502,efectivo
+32,31,35,2024-01-30,1,Villa Maria,2023-01-31,364,False,Alimentos,3,4430,4430,13290,efectivo
+32,31,53,2024-01-30,1,Villa Maria,2023-01-31,364,False,Alimentos,4,1664,1664,6656,efectivo
+32,31,72,2024-01-30,1,Villa Maria,2023-01-31,364,False,Limpieza,5,3876,3876,19380,efectivo
+70,41,38,2024-02-02,1,Alta Gracia,2023-02-10,357,False,Limpieza,3,1584,1584,4752,transferencia
+70,41,66,2024-02-02,1,Alta Gracia,2023-02-10,357,False,Limpieza,3,1533,1533,4599,transferencia
+70,41,89,2024-02-02,1,Alta Gracia,2023-02-10,357,False,Alimentos,4,1003,1003,4012,transferencia
+58,48,11,2024-02-04,1,Cordoba,2023-02-17,352,False,Alimentos,1,2053,2053,2053,transferencia
+58,48,43,2024-02-04,1,Cordoba,2023-02-17,352,False,Alimentos,2,887,887,1774,transferencia
+105,1,4,2024-02-06,1,Carlos Paz,2023-01-01,401,True,Limpieza,4,2033,2033,8132,transferencia
+105,1,13,2024-02-06,1,Carlos Paz,2023-01-01,401,True,Alimentos,2,2383,2383,4766,transferencia
+105,1,43,2024-02-06,1,Carlos Paz,2023-01-01,401,True,Alimentos,5,887,887,4435,transferencia
+105,1,58,2024-02-06,1,Carlos Paz,2023-01-01,401,True,Limpieza,2,4752,4752,9504,transferencia
+105,1,82,2024-02-06,1,Carlos Paz,2023-01-01,401,True,Limpieza,4,2394,2394,9576,transferencia
+119,51,45,2024-02-07,1,Rio Cuarto,2023-02-20,352,False,Alimentos,5,745,745,3725,qr
+92,42,10,2024-02-09,1,Alta Gracia,2023-02-11,363,False,Limpieza,2,4883,4883,9766,transferencia
+92,42,43,2024-02-09,1,Alta Gracia,2023-02-11,363,False,Alimentos,4,887,887,3548,transferencia
+118,84,50,2024-02-09,1,Cordoba,2023-03-25,321,False,Limpieza,2,727,727,1454,efectivo
+118,84,68,2024-02-09,1,Cordoba,2023-03-25,321,False,Limpieza,5,2684,2684,13420,efectivo
+118,84,68,2024-02-09,1,Cordoba,2023-03-25,321,False,Limpieza,3,2684,2684,8052,efectivo
+118,84,70,2024-02-09,1,Cordoba,2023-03-25,321,False,Limpieza,2,4061,4061,8122,efectivo
+118,84,93,2024-02-09,1,Cordoba,2023-03-25,321,False,Alimentos,3,2142,2142,6426,efectivo
+111,48,20,2024-02-12,1,Cordoba,2023-02-17,360,False,Limpieza,2,1571,1571,3142,efectivo
+111,48,23,2024-02-12,1,Cordoba,2023-02-17,360,False,Alimentos,4,2380,2380,9520,efectivo
+111,48,93,2024-02-12,1,Cordoba,2023-02-17,360,False,Alimentos,3,2142,2142,6426,efectivo
+111,48,97,2024-02-12,1,Cordoba,2023-02-17,360,False,Alimentos,4,872,872,3488,efectivo
+33,6,47,2024-02-13,1,Villa Maria,2023-01-06,403,True,Alimentos,2,2939,2939,5878,efectivo
+33,6,76,2024-02-13,1,Villa Maria,2023-01-06,403,True,Limpieza,4,4286,4286,17144,efectivo
+33,6,91,2024-02-13,1,Villa Maria,2023-01-06,403,True,Alimentos,2,4690,4690,9380,efectivo
+33,6,100,2024-02-13,1,Villa Maria,2023-01-06,403,True,Limpieza,1,4854,4854,4854,efectivo
+115,3,17,2024-02-16,1,Rio Cuarto,2023-01-03,409,True,Alimentos,4,4834,4834,19336,transferencia
+115,3,84,2024-02-16,1,Rio Cuarto,2023-01-03,409,True,Limpieza,2,1645,1645,3290,transferencia
+115,3,95,2024-02-16,1,Rio Cuarto,2023-01-03,409,True,Alimentos,4,1581,1581,6324,transferencia
+115,3,97,2024-02-16,1,Rio Cuarto,2023-01-03,409,True,Alimentos,5,872,872,4360,transferencia
+17,88,46,2024-02-17,1,Villa Maria,2023-03-29,325,False,Limpieza,5,3036,3036,15180,efectivo
+17,88,74,2024-02-17,1,Villa Maria,2023-03-29,325,False,Limpieza,3,2953,2953,8859,efectivo
+17,88,81,2024-02-17,1,Villa Maria,2023-03-29,325,False,Alimentos,5,2520,2520,12600,efectivo
+72,26,41,2024-02-17,1,Alta Gracia,2023-01-26,387,True,Alimentos,4,860,860,3440,qr
+72,26,51,2024-02-17,1,Alta Gracia,2023-01-26,387,True,Alimentos,2,1745,1745,3490,qr
+72,26,94,2024-02-17,1,Alta Gracia,2023-01-26,387,True,Limpieza,3,1418,1418,4254,qr
+43,23,1,2024-02-18,1,Rio Cuarto,2023-01-23,391,True,Alimentos,5,2347,2347,11735,efectivo
+43,23,49,2024-02-18,1,Rio Cuarto,2023-01-23,391,True,Alimentos,2,2512,2512,5024,efectivo
+43,23,66,2024-02-18,1,Rio Cuarto,2023-01-23,391,True,Limpieza,2,1533,1533,3066,efectivo
+51,39,31,2024-02-18,1,Alta Gracia,2023-02-08,375,True,Alimentos,1,3409,3409,3409,efectivo
+91,39,57,2024-02-19,1,Alta Gracia,2023-02-08,376,True,Alimentos,3,4520,4520,13560,efectivo
+29,49,27,2024-02-20,1,Rio Cuarto,2023-02-18,367,True,Alimentos,2,2502,2502,5004,qr
+29,49,36,2024-02-20,1,Rio Cuarto,2023-02-18,367,True,Limpieza,2,2559,2559,5118,qr
+29,49,58,2024-02-20,1,Rio Cuarto,2023-02-18,367,True,Limpieza,1,4752,4752,4752,qr
+29,49,66,2024-02-20,1,Rio Cuarto,2023-02-18,367,True,Limpieza,1,1533,1533,1533,qr
+29,49,71,2024-02-20,1,Rio Cuarto,2023-02-18,367,True,Alimentos,4,508,508,2032,qr
+44,21,47,2024-02-21,1,Alta Gracia,2023-01-21,396,True,Alimentos,2,2939,2939,5878,efectivo
+44,21,48,2024-02-21,1,Alta Gracia,2023-01-21,396,True,Limpieza,1,4462,4462,4462,efectivo
+44,21,100,2024-02-21,1,Alta Gracia,2023-01-21,396,True,Limpieza,2,4854,4854,9708,efectivo
+96,83,11,2024-02-23,1,Rio Cuarto,2023-03-24,336,False,Alimentos,2,2053,2053,4106,tarjeta
+96,83,50,2024-02-23,1,Rio Cuarto,2023-03-24,336,False,Limpieza,3,727,727,2181,tarjeta
+96,83,68,2024-02-23,1,Rio Cuarto,2023-03-24,336,False,Limpieza,1,2684,2684,2684,tarjeta
+96,83,81,2024-02-23,1,Rio Cuarto,2023-03-24,336,False,Alimentos,3,2520,2520,7560,tarjeta
+27,9,7,2024-02-25,1,Carlos Paz,2023-01-09,412,True,Alimentos,4,3269,3269,13076,transferencia
+27,9,78,2024-02-25,1,Carlos Paz,2023-01-09,412,True,Limpieza,4,4289,4289,17156,transferencia
+95,26,12,2024-02-25,1,Alta Gracia,2023-01-26,395,True,Limpieza,1,570,570,570,qr
+95,26,72,2024-02-25,1,Alta Gracia,2023-01-26,395,True,Limpieza,5,3876,3876,19380,qr
+4,36,4,2024-02-27,1,Mendiolaza,2023-02-05,387,True,Limpieza,2,2033,2033,4066,transferencia
+4,36,23,2024-02-27,1,Mendiolaza,2023-02-05,387,True,Alimentos,5,2380,2380,11900,transferencia
+30,93,7,2024-03-03,1,Alta Gracia,2023-04-03,335,False,Alimentos,1,3269,3269,3269,efectivo
+30,93,49,2024-03-03,1,Alta Gracia,2023-04-03,335,False,Alimentos,4,2512,2512,10048,efectivo
+30,93,78,2024-03-03,1,Alta Gracia,2023-04-03,335,False,Limpieza,3,4289,4289,12867,efectivo
+30,93,82,2024-03-03,1,Alta Gracia,2023-04-03,335,False,Limpieza,4,2394,2394,9576,efectivo
+39,5,22,2024-03-05,1,Cordoba,2023-01-05,425,True,Limpieza,2,2069,2069,4138,efectivo
+39,5,44,2024-03-05,1,Cordoba,2023-01-05,425,True,Limpieza,4,2979,2979,11916,efectivo
+39,5,58,2024-03-05,1,Cordoba,2023-01-05,425,True,Limpieza,4,4752,4752,19008,efectivo
+39,5,81,2024-03-05,1,Cordoba,2023-01-05,425,True,Alimentos,4,2520,2520,10080,efectivo
+94,41,24,2024-03-06,1,Alta Gracia,2023-02-10,390,True,Limpieza,1,1305,1305,1305,qr
+94,41,86,2024-03-06,1,Alta Gracia,2023-02-10,390,True,Limpieza,5,4090,4090,20450,qr
+94,41,98,2024-03-06,1,Alta Gracia,2023-02-10,390,True,Limpieza,2,2843,2843,5686,qr
+64,58,4,2024-03-07,1,Rio Cuarto,2023-02-27,374,True,Limpieza,2,2033,2033,4066,qr
+64,58,41,2024-03-07,1,Rio Cuarto,2023-02-27,374,True,Alimentos,2,860,860,1720,qr
+41,29,15,2024-03-08,1,Alta Gracia,2023-01-29,404,True,Alimentos,1,2538,2538,2538,tarjeta
+41,29,51,2024-03-08,1,Alta Gracia,2023-01-29,404,True,Alimentos,1,1745,1745,1745,tarjeta
+113,98,53,2024-03-08,1,Cordoba,2023-04-08,335,False,Alimentos,2,1664,1664,3328,transferencia
+113,98,92,2024-03-08,1,Cordoba,2023-04-08,335,False,Limpieza,3,2512,2512,7536,transferencia
+81,49,10,2024-03-09,1,Rio Cuarto,2023-02-18,385,True,Limpieza,2,4883,4883,9766,transferencia
+103,39,34,2024-03-11,1,Alta Gracia,2023-02-08,397,True,Limpieza,1,503,503,503,efectivo
+103,39,43,2024-03-11,1,Alta Gracia,2023-02-08,397,True,Alimentos,5,887,887,4435,efectivo
+103,39,70,2024-03-11,1,Alta Gracia,2023-02-08,397,True,Limpieza,1,4061,4061,4061,efectivo
+103,39,79,2024-03-11,1,Alta Gracia,2023-02-08,397,True,Alimentos,5,2420,2420,12100,efectivo
+99,51,40,2024-03-13,1,Rio Cuarto,2023-02-20,387,True,Limpieza,5,1215,1215,6075,transferencia
+66,69,16,2024-03-14,1,Rio Cuarto,2023-03-10,370,True,Limpieza,3,4613,4613,13839,qr
+117,72,61,2024-03-14,1,Cordoba,2023-03-13,367,True,Alimentos,2,4982,4982,9964,tarjeta
+117,72,67,2024-03-14,1,Cordoba,2023-03-13,367,True,Alimentos,4,4719,4719,18876,tarjeta
+2,49,22,2024-03-17,1,Rio Cuarto,2023-02-18,393,True,Limpieza,1,2069,2069,2069,qr
+2,49,39,2024-03-17,1,Rio Cuarto,2023-02-18,393,True,Alimentos,5,469,469,2345,qr
+2,49,70,2024-03-17,1,Rio Cuarto,2023-02-18,393,True,Limpieza,2,4061,4061,8122,qr
+2,49,79,2024-03-17,1,Rio Cuarto,2023-02-18,393,True,Alimentos,4,2420,2420,9680,qr
+2,49,82,2024-03-17,1,Rio Cuarto,2023-02-18,393,True,Limpieza,5,2394,2394,11970,qr
+116,25,35,2024-03-18,1,Rio Cuarto,2023-01-25,418,True,Alimentos,2,4430,4430,8860,qr
+116,25,42,2024-03-18,1,Rio Cuarto,2023-01-25,418,True,Limpieza,4,1195,1195,4780,qr
+116,25,54,2024-03-18,1,Rio Cuarto,2023-01-25,418,True,Limpieza,5,1592,1592,7960,qr
+116,25,65,2024-03-18,1,Rio Cuarto,2023-01-25,418,True,Alimentos,1,2423,2423,2423,qr
+116,25,90,2024-03-18,1,Rio Cuarto,2023-01-25,418,True,Limpieza,4,2902,2902,11608,qr
+67,66,8,2024-03-21,1,Villa Maria,2023-03-07,380,True,Limpieza,2,4218,4218,8436,efectivo
+67,66,53,2024-03-21,1,Villa Maria,2023-03-07,380,True,Alimentos,1,1664,1664,1664,efectivo
+106,82,88,2024-03-24,1,Alta Gracia,2023-03-23,367,True,Limpieza,3,2570,2570,7710,transferencia
+46,46,21,2024-03-25,1,Alta Gracia,2023-02-15,404,True,Alimentos,1,272,272,272,tarjeta
+80,54,30,2024-03-25,1,Alta Gracia,2023-02-23,396,True,Limpieza,3,4875,4875,14625,efectivo
+80,54,39,2024-03-25,1,Alta Gracia,2023-02-23,396,True,Alimentos,5,469,469,2345,efectivo
+80,54,41,2024-03-25,1,Alta Gracia,2023-02-23,396,True,Alimentos,5,860,860,4300,efectivo
+108,9,90,2024-03-25,1,Carlos Paz,2023-01-09,441,True,Limpieza,4,2902,2902,11608,tarjeta
+54,1,8,2024-03-26,1,Carlos Paz,2023-01-01,450,True,Limpieza,3,4218,4218,12654,tarjeta
+54,1,18,2024-03-26,1,Carlos Paz,2023-01-01,450,True,Limpieza,2,3444,3444,6888,tarjeta
+54,1,65,2024-03-26,1,Carlos Paz,2023-01-01,450,True,Alimentos,1,2423,2423,2423,tarjeta
+54,1,91,2024-03-26,1,Carlos Paz,2023-01-01,450,True,Alimentos,3,4690,4690,14070,tarjeta
+101,72,34,2024-03-28,1,Cordoba,2023-03-13,381,True,Limpieza,4,503,503,2012,efectivo
+102,18,36,2024-03-29,1,Carlos Paz,2023-01-18,436,True,Limpieza,3,2559,2559,7677,efectivo
+102,18,78,2024-03-29,1,Carlos Paz,2023-01-18,436,True,Limpieza,3,4289,4289,12867,efectivo
+60,81,15,2024-04-04,2,Carlos Paz,2023-03-22,379,True,Alimentos,1,2538,2538,2538,transferencia
+60,81,21,2024-04-04,2,Carlos Paz,2023-03-22,379,True,Alimentos,2,272,272,544,transferencia
+60,81,43,2024-04-04,2,Carlos Paz,2023-03-22,379,True,Alimentos,1,887,887,887,transferencia
+60,81,91,2024-04-04,2,Carlos Paz,2023-03-22,379,True,Alimentos,4,4690,4690,18760,transferencia
+60,81,98,2024-04-04,2,Carlos Paz,2023-03-22,379,True,Limpieza,3,2843,2843,8529,transferencia
+11,20,13,2024-04-10,2,Rio Cuarto,2023-01-20,446,True,Alimentos,1,2383,2383,2383,qr
+11,20,28,2024-04-10,2,Rio Cuarto,2023-01-20,446,True,Limpieza,1,936,936,936,qr
+11,20,65,2024-04-10,2,Rio Cuarto,2023-01-20,446,True,Alimentos,2,2423,2423,4846,qr
+16,2,35,2024-04-12,2,Carlos Paz,2023-01-02,466,True,Alimentos,5,4430,4430,22150,efectivo
+14,67,36,2024-04-18,2,Alta Gracia,2023-03-08,407,True,Limpieza,4,2559,2559,10236,qr
+14,67,38,2024-04-18,2,Alta Gracia,2023-03-08,407,True,Limpieza,3,1584,1584,4752,qr
+14,67,72,2024-04-18,2,Alta Gracia,2023-03-08,407,True,Limpieza,5,3876,3876,19380,qr
+14,67,97,2024-04-18,2,Alta Gracia,2023-03-08,407,True,Alimentos,1,872,872,872,qr
+42,12,29,2024-04-18,2,Alta Gracia,2023-01-12,462,True,Alimentos,1,1868,1868,1868,tarjeta
+42,12,47,2024-04-18,2,Alta Gracia,2023-01-12,462,True,Alimentos,3,2939,2939,8817,tarjeta
+42,12,73,2024-04-18,2,Alta Gracia,2023-01-12,462,True,Alimentos,3,1561,1561,4683,tarjeta
+87,100,53,2024-04-20,2,Cordoba,2023-04-10,376,True,Alimentos,2,1664,1664,3328,qr
+87,100,86,2024-04-20,2,Cordoba,2023-04-10,376,True,Limpieza,2,4090,4090,8180,qr
+120,72,20,2024-04-21,2,Cordoba,2023-03-13,405,True,Limpieza,5,1571,1571,7855,tarjeta
+74,56,14,2024-04-26,2,Rio Cuarto,2023-02-25,426,True,Limpieza,2,1723,1723,3446,efectivo
+74,56,32,2024-04-26,2,Rio Cuarto,2023-02-25,426,True,Limpieza,3,2234,2234,6702,efectivo
+74,56,55,2024-04-26,2,Rio Cuarto,2023-02-25,426,True,Alimentos,2,1407,1407,2814,efectivo
+59,62,8,2024-04-28,2,Carlos Paz,2023-03-03,422,True,Limpieza,2,4218,4218,8436,tarjeta
+59,62,31,2024-04-28,2,Carlos Paz,2023-03-03,422,True,Alimentos,1,3409,3409,3409,tarjeta
+59,62,97,2024-04-28,2,Carlos Paz,2023-03-03,422,True,Alimentos,5,872,872,4360,tarjeta
+78,12,17,2024-04-29,2,Alta Gracia,2023-01-12,473,True,Alimentos,2,4834,4834,9668,qr
+78,12,37,2024-04-29,2,Alta Gracia,2023-01-12,473,True,Alimentos,3,3196,3196,9588,qr
+78,12,39,2024-04-29,2,Alta Gracia,2023-01-12,473,True,Alimentos,2,469,469,938,qr
+78,12,79,2024-04-29,2,Alta Gracia,2023-01-12,473,True,Alimentos,5,2420,2420,12100,qr
+78,12,85,2024-04-29,2,Alta Gracia,2023-01-12,473,True,Alimentos,1,1856,1856,1856,qr
+25,13,55,2024-04-30,2,Carlos Paz,2023-01-13,473,True,Alimentos,1,1407,1407,1407,transferencia
+25,13,72,2024-04-30,2,Carlos Paz,2023-01-13,473,True,Limpieza,1,3876,3876,3876,transferencia
+25,13,95,2024-04-30,2,Carlos Paz,2023-01-13,473,True,Alimentos,5,1581,1581,7905,transferencia
+65,30,22,2024-04-30,2,Alta Gracia,2023-01-30,456,True,Limpieza,3,2069,2069,6207,qr
+65,30,36,2024-04-30,2,Alta Gracia,2023-01-30,456,True,Limpieza,4,2559,2559,10236,qr
+65,30,38,2024-04-30,2,Alta Gracia,2023-01-30,456,True,Limpieza,5,1584,1584,7920,qr
+65,30,77,2024-04-30,2,Alta Gracia,2023-01-30,456,True,Alimentos,4,4778,4778,19112,qr
+62,100,47,2024-05-01,2,Cordoba,2023-04-10,387,True,Alimentos,4,2939,2939,11756,transferencia
+62,100,95,2024-05-01,2,Cordoba,2023-04-10,387,True,Alimentos,3,1581,1581,4743,transferencia
+47,52,6,2024-05-04,2,Rio Cuarto,2023-02-21,438,True,Limpieza,3,4170,4170,12510,transferencia
+47,52,43,2024-05-04,2,Rio Cuarto,2023-02-21,438,True,Alimentos,5,887,887,4435,transferencia
+6,91,25,2024-05-05,2,Mendiolaza,2023-04-01,400,True,Alimentos,2,4015,4015,8030,transferencia
+6,91,31,2024-05-05,2,Mendiolaza,2023-04-01,400,True,Alimentos,3,3409,3409,10227,transferencia
+6,91,59,2024-05-05,2,Mendiolaza,2023-04-01,400,True,Alimentos,4,3612,3612,14448,transferencia
+6,91,83,2024-05-05,2,Mendiolaza,2023-04-01,400,True,Alimentos,1,1830,1830,1830,transferencia
+114,16,8,2024-05-05,2,Rio Cuarto,2023-01-16,475,True,Limpieza,1,4218,4218,4218,qr
+114,16,10,2024-05-05,2,Rio Cuarto,2023-01-16,475,True,Limpieza,1,4883,4883,4883,qr
+114,16,55,2024-05-05,2,Rio Cuarto,2023-01-16,475,True,Alimentos,5,1407,1407,7035,qr
+114,16,84,2024-05-05,2,Rio Cuarto,2023-01-16,475,True,Limpieza,1,1645,1645,1645,qr
+114,16,92,2024-05-05,2,Rio Cuarto,2023-01-16,475,True,Limpieza,4,2512,2512,10048,qr
+7,92,63,2024-05-06,2,Alta Gracia,2023-04-02,400,True,Alimentos,3,4337,4337,13011,efectivo
+22,64,9,2024-05-08,2,Villa Maria,2023-03-05,430,True,Alimentos,2,3878,3878,7756,transferencia
+22,64,24,2024-05-08,2,Villa Maria,2023-03-05,430,True,Limpieza,4,1305,1305,5220,transferencia
+22,64,28,2024-05-08,2,Villa Maria,2023-03-05,430,True,Limpieza,3,936,936,2808,transferencia
+52,5,9,2024-05-10,2,Cordoba,2023-01-05,491,True,Alimentos,4,3878,3878,15512,tarjeta
+52,5,38,2024-05-10,2,Cordoba,2023-01-05,491,True,Limpieza,3,1584,1584,4752,tarjeta
+52,5,81,2024-05-10,2,Cordoba,2023-01-05,491,True,Alimentos,5,2520,2520,12600,tarjeta
+52,5,83,2024-05-10,2,Cordoba,2023-01-05,491,True,Alimentos,2,1830,1830,3660,tarjeta
+40,15,44,2024-05-13,2,Cordoba,2023-01-15,484,True,Limpieza,2,2979,2979,5958,efectivo
+76,75,11,2024-05-15,2,Rio Cuarto,2023-03-16,426,True,Alimentos,2,2053,2053,4106,tarjeta
+76,75,22,2024-05-15,2,Rio Cuarto,2023-03-16,426,True,Limpieza,4,2069,2069,8276,tarjeta
+76,75,23,2024-05-15,2,Rio Cuarto,2023-03-16,426,True,Alimentos,4,2380,2380,9520,tarjeta
+76,75,24,2024-05-15,2,Rio Cuarto,2023-03-16,426,True,Limpieza,1,1305,1305,1305,tarjeta
+23,78,64,2024-05-16,2,Villa Maria,2023-03-19,424,True,Limpieza,4,3953,3953,15812,transferencia
+23,78,83,2024-05-16,2,Villa Maria,2023-03-19,424,True,Alimentos,4,1830,1830,7320,transferencia
+73,42,19,2024-05-16,2,Alta Gracia,2023-02-11,460,True,Alimentos,1,3251,3251,3251,transferencia
+73,42,24,2024-05-16,2,Alta Gracia,2023-02-11,460,True,Limpieza,3,1305,1305,3915,transferencia
+73,42,28,2024-05-16,2,Alta Gracia,2023-02-11,460,True,Limpieza,1,936,936,936,transferencia
+37,57,18,2024-05-17,2,Rio Cuarto,2023-02-26,446,True,Limpieza,3,3444,3444,10332,qr
+110,92,6,2024-05-19,2,Alta Gracia,2023-04-02,413,True,Limpieza,1,4170,4170,4170,efectivo
+110,92,6,2024-05-19,2,Alta Gracia,2023-04-02,413,True,Limpieza,5,4170,4170,20850,efectivo
+110,92,59,2024-05-19,2,Alta Gracia,2023-04-02,413,True,Alimentos,3,3612,3612,10836,efectivo
+28,52,18,2024-05-20,2,Rio Cuarto,2023-02-21,454,True,Limpieza,2,3444,3444,6888,qr
+28,52,27,2024-05-20,2,Rio Cuarto,2023-02-21,454,True,Alimentos,5,2502,2502,12510,qr
+28,52,72,2024-05-20,2,Rio Cuarto,2023-02-21,454,True,Limpieza,1,3876,3876,3876,qr
+28,52,74,2024-05-20,2,Rio Cuarto,2023-02-21,454,True,Limpieza,1,2953,2953,2953,qr
+28,52,91,2024-05-20,2,Rio Cuarto,2023-02-21,454,True,Alimentos,2,4690,4690,9380,qr
+107,14,5,2024-05-21,2,Carlos Paz,2023-01-14,493,True,Alimentos,4,4777,4777,19108,efectivo
+107,14,7,2024-05-21,2,Carlos Paz,2023-01-14,493,True,Alimentos,4,3269,3269,13076,efectivo
+107,14,11,2024-05-21,2,Carlos Paz,2023-01-14,493,True,Alimentos,2,2053,2053,4106,efectivo
+107,14,12,2024-05-21,2,Carlos Paz,2023-01-14,493,True,Limpieza,4,570,570,2280,efectivo
+31,19,84,2024-05-22,2,Mendiolaza,2023-01-19,489,True,Limpieza,5,1645,1645,8225,tarjeta
+31,19,90,2024-05-22,2,Mendiolaza,2023-01-19,489,True,Limpieza,3,2902,2902,8706,tarjeta
+31,19,92,2024-05-22,2,Mendiolaza,2023-01-19,489,True,Limpieza,4,2512,2512,10048,tarjeta
+75,61,2,2024-05-23,2,Rio Cuarto,2023-03-02,448,True,Limpieza,5,4973,4973,24865,qr
+75,61,3,2024-05-23,2,Rio Cuarto,2023-03-02,448,True,Alimentos,4,4964,4964,19856,qr
+77,55,34,2024-05-26,2,Mendiolaza,2023-02-24,457,True,Limpieza,5,503,503,2515,tarjeta
+77,55,39,2024-05-26,2,Mendiolaza,2023-02-24,457,True,Alimentos,2,469,469,938,tarjeta
+77,55,41,2024-05-26,2,Mendiolaza,2023-02-24,457,True,Alimentos,1,860,860,860,tarjeta
+77,55,53,2024-05-26,2,Mendiolaza,2023-02-24,457,True,Alimentos,2,1664,1664,3328,tarjeta
+77,55,98,2024-05-26,2,Mendiolaza,2023-02-24,457,True,Limpieza,2,2843,2843,5686,tarjeta
+10,52,36,2024-05-28,2,Rio Cuarto,2023-02-21,462,True,Limpieza,2,2559,2559,5118,qr
+10,52,37,2024-05-28,2,Rio Cuarto,2023-02-21,462,True,Alimentos,3,3196,3196,9588,qr
+10,52,62,2024-05-28,2,Rio Cuarto,2023-02-21,462,True,Limpieza,1,3848,3848,3848,qr
+10,52,100,2024-05-28,2,Rio Cuarto,2023-02-21,462,True,Limpieza,4,4854,4854,19416,qr
+83,91,5,2024-05-28,2,Mendiolaza,2023-04-01,423,True,Alimentos,2,4777,4777,9554,efectivo
+83,91,26,2024-05-28,2,Mendiolaza,2023-04-01,423,True,Limpieza,2,1001,1001,2002,efectivo
+83,91,51,2024-05-28,2,Mendiolaza,2023-04-01,423,True,Alimentos,2,1745,1745,3490,efectivo
+83,91,73,2024-05-28,2,Mendiolaza,2023-04-01,423,True,Alimentos,5,1561,1561,7805,efectivo
+38,56,5,2024-05-29,2,Rio Cuarto,2023-02-25,459,True,Alimentos,3,4777,4777,14331,tarjeta
+38,56,14,2024-05-29,2,Rio Cuarto,2023-02-25,459,True,Limpieza,3,1723,1723,5169,tarjeta
+38,56,62,2024-05-29,2,Rio Cuarto,2023-02-25,459,True,Limpieza,5,3848,3848,19240,tarjeta
+38,56,65,2024-05-29,2,Rio Cuarto,2023-02-25,459,True,Alimentos,5,2423,2423,12115,tarjeta
+35,61,80,2024-05-30,2,Rio Cuarto,2023-03-02,455,True,Limpieza,2,1981,1981,3962,efectivo
+35,61,88,2024-05-30,2,Rio Cuarto,2023-03-02,455,True,Limpieza,5,2570,2570,12850,efectivo
+35,61,93,2024-05-30,2,Rio Cuarto,2023-03-02,455,True,Alimentos,3,2142,2142,6426,efectivo
+61,27,9,2024-06-01,2,Rio Cuarto,2023-01-27,491,True,Alimentos,3,3878,3878,11634,efectivo
+61,27,19,2024-06-01,2,Rio Cuarto,2023-01-27,491,True,Alimentos,3,3251,3251,9753,efectivo
+49,5,18,2024-06-02,2,Cordoba,2023-01-05,514,True,Limpieza,3,3444,3444,10332,efectivo
+49,5,21,2024-06-02,2,Cordoba,2023-01-05,514,True,Alimentos,4,272,272,1088,efectivo
+49,5,59,2024-06-02,2,Cordoba,2023-01-05,514,True,Alimentos,2,3612,3612,7224,efectivo
+49,5,59,2024-06-02,2,Cordoba,2023-01-05,514,True,Alimentos,4,3612,3612,14448,efectivo
+49,5,85,2024-06-02,2,Cordoba,2023-01-05,514,True,Alimentos,3,1856,1856,5568,efectivo
+71,40,11,2024-06-02,2,Rio Cuarto,2023-02-09,479,True,Alimentos,3,2053,2053,6159,qr
+71,40,79,2024-06-02,2,Rio Cuarto,2023-02-09,479,True,Alimentos,4,2420,2420,9680,qr
+71,40,92,2024-06-02,2,Rio Cuarto,2023-02-09,479,True,Limpieza,1,2512,2512,2512,qr
+71,40,100,2024-06-02,2,Rio Cuarto,2023-02-09,479,True,Limpieza,4,4854,4854,19416,qr
+109,64,18,2024-06-04,2,Villa Maria,2023-03-05,457,True,Limpieza,1,3444,3444,3444,transferencia
+109,64,20,2024-06-04,2,Villa Maria,2023-03-05,457,True,Limpieza,2,1571,1571,3142,transferencia
+109,64,44,2024-06-04,2,Villa Maria,2023-03-05,457,True,Limpieza,5,2979,2979,14895,transferencia
+109,64,74,2024-06-04,2,Villa Maria,2023-03-05,457,True,Limpieza,1,2953,2953,2953,transferencia
+79,57,56,2024-06-06,2,Rio Cuarto,2023-02-26,466,True,Limpieza,2,2532,2532,5064,qr
+79,57,81,2024-06-06,2,Rio Cuarto,2023-02-26,466,True,Alimentos,2,2520,2520,5040,qr
+100,69,9,2024-06-08,2,Rio Cuarto,2023-03-10,456,True,Alimentos,4,3878,3878,15512,qr
+100,69,13,2024-06-08,2,Rio Cuarto,2023-03-10,456,True,Alimentos,3,2383,2383,7149,qr
+100,69,18,2024-06-08,2,Rio Cuarto,2023-03-10,456,True,Limpieza,4,3444,3444,13776,qr
+100,69,57,2024-06-08,2,Rio Cuarto,2023-03-10,456,True,Alimentos,1,4520,4520,4520,qr
+100,69,58,2024-06-08,2,Rio Cuarto,2023-03-10,456,True,Limpieza,2,4752,4752,9504,qr
+5,56,86,2024-06-11,2,Rio Cuarto,2023-02-25,472,True,Limpieza,4,4090,4090,16360,tarjeta
+18,81,4,2024-06-11,2,Carlos Paz,2023-03-22,447,True,Limpieza,5,2033,2033,10165,qr
+18,81,15,2024-06-11,2,Carlos Paz,2023-03-22,447,True,Alimentos,3,2538,2538,7614,qr
+18,81,22,2024-06-11,2,Carlos Paz,2023-03-22,447,True,Limpieza,5,2069,2069,10345,qr
+18,81,24,2024-06-11,2,Carlos Paz,2023-03-22,447,True,Limpieza,2,1305,1305,2610,qr
+18,81,33,2024-06-11,2,Carlos Paz,2023-03-22,447,True,Alimentos,2,1255,1255,2510,qr
+19,80,38,2024-06-11,2,Mendiolaza,2023-03-21,448,True,Limpieza,2,1584,1584,3168,efectivo
+19,80,63,2024-06-11,2,Mendiolaza,2023-03-21,448,True,Alimentos,3,4337,4337,13011,efectivo
+19,80,98,2024-06-11,2,Mendiolaza,2023-03-21,448,True,Limpieza,3,2843,2843,8529,efectivo
+24,55,40,2024-06-14,2,Mendiolaza,2023-02-24,476,True,Limpieza,5,1215,1215,6075,tarjeta
+24,55,91,2024-06-14,2,Mendiolaza,2023-02-24,476,True,Alimentos,2,4690,4690,9380,tarjeta
+56,15,18,2024-06-14,2,Cordoba,2023-01-15,516,True,Limpieza,5,3444,3444,17220,qr
+97,39,4,2024-06-16,2,Alta Gracia,2023-02-08,494,True,Limpieza,3,2033,2033,6099,efectivo
+97,39,36,2024-06-16,2,Alta Gracia,2023-02-08,494,True,Limpieza,1,2559,2559,2559,efectivo
+97,39,59,2024-06-16,2,Alta Gracia,2023-02-08,494,True,Alimentos,5,3612,3612,18060,efectivo
+104,86,68,2024-06-17,2,Cordoba,2023-03-27,448,True,Limpieza,3,2684,2684,8052,qr
+104,86,68,2024-06-17,2,Cordoba,2023-03-27,448,True,Limpieza,5,2684,2684,13420,qr
+104,86,95,2024-06-17,2,Cordoba,2023-03-27,448,True,Alimentos,2,1581,1581,3162,qr
+1,62,90,2024-06-19,2,Carlos Paz,2023-03-03,474,True,Limpieza,1,2902,2902,2902,tarjeta
+21,10,35,2024-06-19,2,Cordoba,2023-01-10,526,True,Alimentos,1,4430,4430,4430,transferencia
+21,10,76,2024-06-19,2,Cordoba,2023-01-10,526,True,Limpieza,5,4286,4286,21430,transferencia
+63,25,2,2024-06-19,2,Rio Cuarto,2023-01-25,511,True,Limpieza,2,4973,4973,9946,tarjeta
+63,25,8,2024-06-19,2,Rio Cuarto,2023-01-25,511,True,Limpieza,5,4218,4218,21090,tarjeta
+63,25,45,2024-06-19,2,Rio Cuarto,2023-01-25,511,True,Alimentos,4,745,745,2980,tarjeta
+63,25,70,2024-06-19,2,Rio Cuarto,2023-01-25,511,True,Limpieza,3,4061,4061,12183,tarjeta
+88,37,7,2024-06-21,2,Mendiolaza,2023-02-06,501,True,Alimentos,5,3269,3269,16345,efectivo
+88,37,8,2024-06-21,2,Mendiolaza,2023-02-06,501,True,Limpieza,4,4218,4218,16872,efectivo
+88,37,53,2024-06-21,2,Mendiolaza,2023-02-06,501,True,Alimentos,5,1664,1664,8320,efectivo
+36,5,48,2024-06-25,2,Cordoba,2023-01-05,537,True,Limpieza,2,4462,4462,8924,tarjeta
+36,5,50,2024-06-25,2,Cordoba,2023-01-05,537,True,Limpieza,4,727,727,2908,tarjeta
+15,56,37,2024-06-27,2,Rio Cuarto,2023-02-25,488,True,Alimentos,3,3196,3196,9588,transferencia
+12,96,38,2024-06-28,2,Cordoba,2023-04-06,449,True,Limpieza,4,1584,1584,6336,efectivo
+12,96,50,2024-06-28,2,Cordoba,2023-04-06,449,True,Limpieza,2,727,727,1454,efectivo
+12,96,56,2024-06-28,2,Cordoba,2023-04-06,449,True,Limpieza,3,2532,2532,7596,efectivo
+12,96,72,2024-06-28,2,Cordoba,2023-04-06,449,True,Limpieza,2,3876,3876,7752,efectivo
+12,96,87,2024-06-28,2,Cordoba,2023-04-06,449,True,Alimentos,3,1679,1679,5037,efectivo
+68,27,94,2024-06-28,2,Rio Cuarto,2023-01-27,518,True,Limpieza,4,1418,1418,5672,qr

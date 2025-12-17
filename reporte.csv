@@ -1,0 +1,344 @@
+id_venta,id_cliente,id_producto,trimestre,ciudad,días_desde_alta,cliente_antiguo,categoria,cantidad,precio_unitario_catalogo,precio_unitario_venta,importe,medio_pago,año,mes,dia,dia_semana,prediccion
+84,72,76,1,Cordoba,295,False,Limpieza,4,4286,4286,17144,efectivo,2024,1,2,1,17144.95
+84,72,83,1,Cordoba,295,False,Alimentos,5,1830,1830,9150,efectivo,2024,1,2,1,9149.435
+55,100,39,1,Cordoba,269,False,Alimentos,4,469,469,1876,qr,2024,1,4,3,1875.0713
+8,66,18,1,Villa Maria,305,False,Limpieza,4,3444,3444,13776,transferencia,2024,1,6,5,13180.85
+8,66,53,1,Villa Maria,305,False,Alimentos,5,1664,1664,8320,transferencia,2024,1,6,5,8319.921
+8,66,68,1,Villa Maria,305,False,Limpieza,5,2684,2684,13420,transferencia,2024,1,6,5,13177.254
+69,42,74,1,Alta Gracia,329,False,Limpieza,3,2953,2953,8859,qr,2024,1,6,5,8859.037
+69,42,76,1,Alta Gracia,329,False,Limpieza,4,4286,4286,17144,qr,2024,1,6,5,17143.803
+90,46,6,1,Alta Gracia,327,False,Limpieza,2,4170,4170,8340,qr,2024,1,8,0,8339.2705
+90,46,79,1,Alta Gracia,327,False,Alimentos,4,2420,2420,9680,qr,2024,1,8,0,9904.244
+50,8,10,1,Carlos Paz,366,True,Limpieza,2,4883,4883,9766,transferencia,2024,1,9,1,9767.959
+50,8,32,1,Carlos Paz,366,True,Limpieza,3,2234,2234,6702,transferencia,2024,1,9,1,6700.0264
+50,8,34,1,Carlos Paz,366,True,Limpieza,5,503,503,2515,transferencia,2024,1,9,1,2515.5574
+50,8,58,1,Carlos Paz,366,True,Limpieza,5,4752,4752,23760,transferencia,2024,1,9,1,23759.217
+50,8,91,1,Carlos Paz,366,True,Alimentos,4,4690,4690,18760,transferencia,2024,1,9,1,18760.525
+57,34,9,1,Villa Maria,341,False,Alimentos,5,3878,3878,19390,efectivo,2024,1,10,2,19390.037
+57,34,31,1,Villa Maria,341,False,Alimentos,3,3409,3409,10227,efectivo,2024,1,10,2,10099.142
+57,34,41,1,Villa Maria,341,False,Alimentos,4,860,860,3440,efectivo,2024,1,10,2,3437.4197
+57,34,76,1,Villa Maria,341,False,Limpieza,3,4286,4286,12858,efectivo,2024,1,10,2,12859.404
+57,34,98,1,Villa Maria,341,False,Limpieza,4,2843,2843,11372,efectivo,2024,1,10,2,11372.545
+86,40,1,1,Rio Cuarto,335,False,Alimentos,4,2347,2347,9388,efectivo,2024,1,10,2,9388.811
+86,40,13,1,Rio Cuarto,335,False,Alimentos,5,2383,2383,11915,efectivo,2024,1,10,2,11914.105
+86,40,41,1,Rio Cuarto,335,False,Alimentos,3,860,860,2580,efectivo,2024,1,10,2,2584.3618
+86,40,66,1,Rio Cuarto,335,False,Limpieza,2,1533,1533,3066,efectivo,2024,1,10,2,3063.5789
+98,43,28,1,Mendiolaza,334,False,Limpieza,4,936,936,3744,transferencia,2024,1,12,4,3743.6135
+98,43,29,1,Mendiolaza,334,False,Alimentos,1,1868,1868,1868,transferencia,2024,1,12,4,1991.9988
+98,43,61,1,Mendiolaza,334,False,Alimentos,1,4982,4982,4982,transferencia,2024,1,12,4,4981.8403
+98,43,83,1,Mendiolaza,334,False,Alimentos,3,1830,1830,5490,transferencia,2024,1,12,4,5490.7754
+3,20,2,1,Rio Cuarto,358,False,Limpieza,2,4973,4973,9946,tarjeta,2024,1,13,5,9945.348
+3,20,9,1,Rio Cuarto,358,False,Alimentos,2,3878,3878,7756,tarjeta,2024,1,13,5,7756.106
+3,20,85,1,Rio Cuarto,358,False,Alimentos,1,1856,1856,1856,tarjeta,2024,1,13,5,1855.2819
+20,75,32,1,Rio Cuarto,303,False,Limpieza,3,2234,2234,6702,tarjeta,2024,1,13,5,6702.4497
+34,58,10,1,Rio Cuarto,320,False,Limpieza,1,4883,4883,4883,transferencia,2024,1,13,5,4883.191
+34,58,32,1,Rio Cuarto,320,False,Limpieza,5,2234,2234,11170,transferencia,2024,1,13,5,10156.172
+89,17,72,1,Villa Maria,366,True,Limpieza,2,3876,3876,7752,tarjeta,2024,1,18,3,7752.0483
+45,15,12,1,Cordoba,369,True,Limpieza,2,570,570,1140,efectivo,2024,1,19,4,1139.4459
+45,15,18,1,Cordoba,369,True,Limpieza,2,3444,3444,6888,efectivo,2024,1,19,4,6888.753
+45,15,52,1,Cordoba,369,True,Limpieza,2,2582,2582,5164,efectivo,2024,1,19,4,5164.3916
+45,15,87,1,Cordoba,369,True,Alimentos,4,1679,1679,6716,efectivo,2024,1,19,4,6716.836
+45,15,98,1,Cordoba,369,True,Limpieza,1,2843,2843,2843,efectivo,2024,1,19,4,3065.436
+112,28,13,1,Cordoba,356,False,Alimentos,2,2383,2383,4766,tarjeta,2024,1,19,4,4767.911
+112,28,21,1,Cordoba,356,False,Alimentos,4,272,272,1088,tarjeta,2024,1,19,4,1088.1892
+112,28,43,1,Cordoba,356,False,Alimentos,5,887,887,4435,tarjeta,2024,1,19,4,4132.5454
+112,28,55,1,Cordoba,356,False,Alimentos,1,1407,1407,1407,tarjeta,2024,1,19,4,1405.8021
+112,28,59,1,Cordoba,356,False,Alimentos,1,3612,3612,3612,tarjeta,2024,1,19,4,3612.2864
+9,86,65,1,Cordoba,299,False,Alimentos,4,2423,2423,9692,efectivo,2024,1,20,5,10034.902
+26,49,79,1,Rio Cuarto,339,False,Alimentos,2,2420,2420,4840,efectivo,2024,1,23,1,5110.299
+26,49,86,1,Rio Cuarto,339,False,Limpieza,1,4090,4090,4090,efectivo,2024,1,23,1,4088.1167
+85,42,32,1,Alta Gracia,346,False,Limpieza,4,2234,2234,8936,transferencia,2024,1,23,1,8935.908
+85,42,80,1,Alta Gracia,346,False,Limpieza,2,1981,1981,3962,transferencia,2024,1,23,1,3962.631
+13,6,13,1,Villa Maria,383,True,Alimentos,1,2383,2383,2383,tarjeta,2024,1,24,2,2382.6096
+13,6,81,1,Villa Maria,383,True,Alimentos,3,2520,2520,7560,tarjeta,2024,1,24,2,7560.3486
+13,6,87,1,Villa Maria,383,True,Alimentos,1,1679,1679,1679,tarjeta,2024,1,24,2,1679.2773
+53,56,28,1,Rio Cuarto,334,False,Limpieza,1,936,936,936,tarjeta,2024,1,25,3,936.79346
+82,19,28,1,Mendiolaza,371,True,Limpieza,2,936,936,1872,tarjeta,2024,1,25,3,1870.4844
+82,19,29,1,Mendiolaza,371,True,Alimentos,5,1868,1868,9340,tarjeta,2024,1,25,3,8263.956
+82,19,38,1,Mendiolaza,371,True,Limpieza,1,1584,1584,1584,tarjeta,2024,1,25,3,1585.0929
+82,19,82,1,Mendiolaza,371,True,Limpieza,2,2394,2394,4788,tarjeta,2024,1,25,3,5198.0625
+48,84,54,1,Cordoba,307,False,Limpieza,5,1592,1592,7960,qr,2024,1,26,4,7960.5894
+48,84,57,1,Cordoba,307,False,Alimentos,4,4520,4520,18080,qr,2024,1,26,4,18079.684
+48,84,70,1,Cordoba,307,False,Limpieza,1,4061,4061,4061,qr,2024,1,26,4,4061.2202
+93,90,66,1,Rio Cuarto,304,False,Limpieza,3,1533,1533,4599,efectivo,2024,1,29,0,4599.463
+93,90,80,1,Rio Cuarto,304,False,Limpieza,4,1981,1981,7924,efectivo,2024,1,29,0,7922.994
+93,90,91,1,Rio Cuarto,304,False,Alimentos,3,4690,4690,14070,efectivo,2024,1,29,0,13630.101
+32,31,17,1,Villa Maria,364,False,Alimentos,3,4834,4834,14502,efectivo,2024,1,30,1,14501.369
+32,31,35,1,Villa Maria,364,False,Alimentos,3,4430,4430,13290,efectivo,2024,1,30,1,13290.737
+32,31,53,1,Villa Maria,364,False,Alimentos,4,1664,1664,6656,efectivo,2024,1,30,1,6989.859
+32,31,72,1,Villa Maria,364,False,Limpieza,5,3876,3876,19380,efectivo,2024,1,30,1,19379.615
+70,41,38,1,Alta Gracia,357,False,Limpieza,3,1584,1584,4752,transferencia,2024,2,2,4,4753.956
+70,41,66,1,Alta Gracia,357,False,Limpieza,3,1533,1533,4599,transferencia,2024,2,2,4,4595.6587
+70,41,89,1,Alta Gracia,357,False,Alimentos,4,1003,1003,4012,transferencia,2024,2,2,4,4013.0828
+58,48,11,1,Cordoba,352,False,Alimentos,1,2053,2053,2053,transferencia,2024,2,4,6,2052.9434
+58,48,43,1,Cordoba,352,False,Alimentos,2,887,887,1774,transferencia,2024,2,4,6,1584.7318
+105,1,4,1,Carlos Paz,401,True,Limpieza,4,2033,2033,8132,transferencia,2024,2,6,1,8433.166
+105,1,13,1,Carlos Paz,401,True,Alimentos,2,2383,2383,4766,transferencia,2024,2,6,1,4763.876
+105,1,43,1,Carlos Paz,401,True,Alimentos,5,887,887,4435,transferencia,2024,2,6,1,4752.0044
+105,1,58,1,Carlos Paz,401,True,Limpieza,2,4752,4752,9504,transferencia,2024,2,6,1,9863.406
+105,1,82,1,Carlos Paz,401,True,Limpieza,4,2394,2394,9576,transferencia,2024,2,6,1,9578.674
+119,51,45,1,Rio Cuarto,352,False,Alimentos,5,745,745,3725,qr,2024,2,7,2,3370.1165
+92,42,10,1,Alta Gracia,363,False,Limpieza,2,4883,4883,9766,transferencia,2024,2,9,4,9766.084
+92,42,43,1,Alta Gracia,363,False,Alimentos,4,887,887,3548,transferencia,2024,2,9,4,3548.6487
+118,84,50,1,Cordoba,321,False,Limpieza,2,727,727,1454,efectivo,2024,2,9,4,1453.9742
+118,84,68,1,Cordoba,321,False,Limpieza,5,2684,2684,13420,efectivo,2024,2,9,4,13234.533
+118,84,68,1,Cordoba,321,False,Limpieza,3,2684,2684,8052,efectivo,2024,2,9,4,8050.994
+118,84,70,1,Cordoba,321,False,Limpieza,2,4061,4061,8122,efectivo,2024,2,9,4,8028.117
+118,84,93,1,Cordoba,321,False,Alimentos,3,2142,2142,6426,efectivo,2024,2,9,4,6427.3047
+111,48,20,1,Cordoba,360,False,Limpieza,2,1571,1571,3142,efectivo,2024,2,12,0,3142.607
+111,48,23,1,Cordoba,360,False,Alimentos,4,2380,2380,9520,efectivo,2024,2,12,0,9520.9375
+111,48,93,1,Cordoba,360,False,Alimentos,3,2142,2142,6426,efectivo,2024,2,12,0,6424.673
+111,48,97,1,Cordoba,360,False,Alimentos,4,872,872,3488,efectivo,2024,2,12,0,3488.658
+33,6,47,1,Villa Maria,403,True,Alimentos,2,2939,2939,5878,efectivo,2024,2,13,1,5850.4175
+33,6,76,1,Villa Maria,403,True,Limpieza,4,4286,4286,17144,efectivo,2024,2,13,1,17140.854
+33,6,91,1,Villa Maria,403,True,Alimentos,2,4690,4690,9380,efectivo,2024,2,13,1,9380.03
+33,6,100,1,Villa Maria,403,True,Limpieza,1,4854,4854,4854,efectivo,2024,2,13,1,4855.297
+115,3,17,1,Rio Cuarto,409,True,Alimentos,4,4834,4834,19336,transferencia,2024,2,16,4,19336.682
+115,3,84,1,Rio Cuarto,409,True,Limpieza,2,1645,1645,3290,transferencia,2024,2,16,4,3290.1245
+115,3,95,1,Rio Cuarto,409,True,Alimentos,4,1581,1581,6324,transferencia,2024,2,16,4,6322.663
+115,3,97,1,Rio Cuarto,409,True,Alimentos,5,872,872,4360,transferencia,2024,2,16,4,4360.3477
+17,88,46,1,Villa Maria,325,False,Limpieza,5,3036,3036,15180,efectivo,2024,2,17,5,15180.084
+17,88,74,1,Villa Maria,325,False,Limpieza,3,2953,2953,8859,efectivo,2024,2,17,5,8860.739
+17,88,81,1,Villa Maria,325,False,Alimentos,5,2520,2520,12600,efectivo,2024,2,17,5,12599.703
+72,26,41,1,Alta Gracia,387,True,Alimentos,4,860,860,3440,qr,2024,2,17,5,3440.5227
+72,26,51,1,Alta Gracia,387,True,Alimentos,2,1745,1745,3490,qr,2024,2,17,5,3487.4233
+72,26,94,1,Alta Gracia,387,True,Limpieza,3,1418,1418,4254,qr,2024,2,17,5,4254.2505
+43,23,1,1,Rio Cuarto,391,True,Alimentos,5,2347,2347,11735,efectivo,2024,2,18,6,11122.53
+43,23,49,1,Rio Cuarto,391,True,Alimentos,2,2512,2512,5024,efectivo,2024,2,18,6,5024.007
+43,23,66,1,Rio Cuarto,391,True,Limpieza,2,1533,1533,3066,efectivo,2024,2,18,6,3068.8079
+51,39,31,1,Alta Gracia,375,True,Alimentos,1,3409,3409,3409,efectivo,2024,2,18,6,3407.599
+91,39,57,1,Alta Gracia,376,True,Alimentos,3,4520,4520,13560,efectivo,2024,2,19,0,13476.572
+29,49,27,1,Rio Cuarto,367,True,Alimentos,2,2502,2502,5004,qr,2024,2,20,1,5171.05
+29,49,36,1,Rio Cuarto,367,True,Limpieza,2,2559,2559,5118,qr,2024,2,20,1,5098.6865
+29,49,58,1,Rio Cuarto,367,True,Limpieza,1,4752,4752,4752,qr,2024,2,20,1,4753.4985
+29,49,66,1,Rio Cuarto,367,True,Limpieza,1,1533,1533,1533,qr,2024,2,20,1,1532.9121
+29,49,71,1,Rio Cuarto,367,True,Alimentos,4,508,508,2032,qr,2024,2,20,1,2571.8372
+44,21,47,1,Alta Gracia,396,True,Alimentos,2,2939,2939,5878,efectivo,2024,2,21,2,5878.8506
+44,21,48,1,Alta Gracia,396,True,Limpieza,1,4462,4462,4462,efectivo,2024,2,21,2,4460.981
+44,21,100,1,Alta Gracia,396,True,Limpieza,2,4854,4854,9708,efectivo,2024,2,21,2,9530.778
+96,83,11,1,Rio Cuarto,336,False,Alimentos,2,2053,2053,4106,tarjeta,2024,2,23,4,4104.423
+96,83,50,1,Rio Cuarto,336,False,Limpieza,3,727,727,2181,tarjeta,2024,2,23,4,2548.0798
+96,83,68,1,Rio Cuarto,336,False,Limpieza,1,2684,2684,2684,tarjeta,2024,2,23,4,3214.2334
+96,83,81,1,Rio Cuarto,336,False,Alimentos,3,2520,2520,7560,tarjeta,2024,2,23,4,7559.9146
+27,9,7,1,Carlos Paz,412,True,Alimentos,4,3269,3269,13076,transferencia,2024,2,25,6,13075.871
+27,9,78,1,Carlos Paz,412,True,Limpieza,4,4289,4289,17156,transferencia,2024,2,25,6,17157.36
+95,26,12,1,Alta Gracia,395,True,Limpieza,1,570,570,570,qr,2024,2,25,6,570.4181
+95,26,72,1,Alta Gracia,395,True,Limpieza,5,3876,3876,19380,qr,2024,2,25,6,18900.54
+4,36,4,1,Mendiolaza,387,True,Limpieza,2,2033,2033,4066,transferencia,2024,2,27,1,4066.608
+4,36,23,1,Mendiolaza,387,True,Alimentos,5,2380,2380,11900,transferencia,2024,2,27,1,11262.405
+30,93,7,1,Alta Gracia,335,False,Alimentos,1,3269,3269,3269,efectivo,2024,3,3,6,3268.7678
+30,93,49,1,Alta Gracia,335,False,Alimentos,4,2512,2512,10048,efectivo,2024,3,3,6,10049.286
+30,93,78,1,Alta Gracia,335,False,Limpieza,3,4289,4289,12867,efectivo,2024,3,3,6,12866.983
+30,93,82,1,Alta Gracia,335,False,Limpieza,4,2394,2394,9576,efectivo,2024,3,3,6,9574.947
+39,5,22,1,Cordoba,425,True,Limpieza,2,2069,2069,4138,efectivo,2024,3,5,1,4138.0884
+39,5,44,1,Cordoba,425,True,Limpieza,4,2979,2979,11916,efectivo,2024,3,5,1,11919.001
+39,5,58,1,Cordoba,425,True,Limpieza,4,4752,4752,19008,efectivo,2024,3,5,1,19007.395
+39,5,81,1,Cordoba,425,True,Alimentos,4,2520,2520,10080,efectivo,2024,3,5,1,10078.427
+94,41,24,1,Alta Gracia,390,True,Limpieza,1,1305,1305,1305,qr,2024,3,6,2,1305.3489
+94,41,86,1,Alta Gracia,390,True,Limpieza,5,4090,4090,20450,qr,2024,3,6,2,20449.783
+94,41,98,1,Alta Gracia,390,True,Limpieza,2,2843,2843,5686,qr,2024,3,6,2,5687.0034
+64,58,4,1,Rio Cuarto,374,True,Limpieza,2,2033,2033,4066,qr,2024,3,7,3,4066.4255
+64,58,41,1,Rio Cuarto,374,True,Alimentos,2,860,860,1720,qr,2024,3,7,3,1413.7114
+41,29,15,1,Alta Gracia,404,True,Alimentos,1,2538,2538,2538,tarjeta,2024,3,8,4,2537.6504
+41,29,51,1,Alta Gracia,404,True,Alimentos,1,1745,1745,1745,tarjeta,2024,3,8,4,1747.1321
+113,98,53,1,Cordoba,335,False,Alimentos,2,1664,1664,3328,transferencia,2024,3,8,4,3327.3225
+113,98,92,1,Cordoba,335,False,Limpieza,3,2512,2512,7536,transferencia,2024,3,8,4,7535.948
+81,49,10,1,Rio Cuarto,385,True,Limpieza,2,4883,4883,9766,transferencia,2024,3,9,5,9765.335
+103,39,34,1,Alta Gracia,397,True,Limpieza,1,503,503,503,efectivo,2024,3,11,0,757.1598
+103,39,43,1,Alta Gracia,397,True,Alimentos,5,887,887,4435,efectivo,2024,3,11,0,4435.6973
+103,39,70,1,Alta Gracia,397,True,Limpieza,1,4061,4061,4061,efectivo,2024,3,11,0,4183.679
+103,39,79,1,Alta Gracia,397,True,Alimentos,5,2420,2420,12100,efectivo,2024,3,11,0,12099.317
+99,51,40,1,Rio Cuarto,387,True,Limpieza,5,1215,1215,6075,transferencia,2024,3,13,2,6074.171
+66,69,16,1,Rio Cuarto,370,True,Limpieza,3,4613,4613,13839,qr,2024,3,14,3,13838.492
+117,72,61,1,Cordoba,367,True,Alimentos,2,4982,4982,9964,tarjeta,2024,3,14,3,9963.8125
+117,72,67,1,Cordoba,367,True,Alimentos,4,4719,4719,18876,tarjeta,2024,3,14,3,18359.14
+2,49,22,1,Rio Cuarto,393,True,Limpieza,1,2069,2069,2069,qr,2024,3,17,6,2068.391
+2,49,39,1,Rio Cuarto,393,True,Alimentos,5,469,469,2345,qr,2024,3,17,6,2344.4617
+2,49,70,1,Rio Cuarto,393,True,Limpieza,2,4061,4061,8122,qr,2024,3,17,6,8121.6797
+2,49,79,1,Rio Cuarto,393,True,Alimentos,4,2420,2420,9680,qr,2024,3,17,6,9681.309
+2,49,82,1,Rio Cuarto,393,True,Limpieza,5,2394,2394,11970,qr,2024,3,17,6,11791.2
+116,25,35,1,Rio Cuarto,418,True,Alimentos,2,4430,4430,8860,qr,2024,3,18,0,8859.717
+116,25,42,1,Rio Cuarto,418,True,Limpieza,4,1195,1195,4780,qr,2024,3,18,0,4778.695
+116,25,54,1,Rio Cuarto,418,True,Limpieza,5,1592,1592,7960,qr,2024,3,18,0,7962.5493
+116,25,65,1,Rio Cuarto,418,True,Alimentos,1,2423,2423,2423,qr,2024,3,18,0,2423.643
+116,25,90,1,Rio Cuarto,418,True,Limpieza,4,2902,2902,11608,qr,2024,3,18,0,11606.791
+67,66,8,1,Villa Maria,380,True,Limpieza,2,4218,4218,8436,efectivo,2024,3,21,3,8437.68
+67,66,53,1,Villa Maria,380,True,Alimentos,1,1664,1664,1664,efectivo,2024,3,21,3,1664.0516
+106,82,88,1,Alta Gracia,367,True,Limpieza,3,2570,2570,7710,transferencia,2024,3,24,6,7709.681
+46,46,21,1,Alta Gracia,404,True,Alimentos,1,272,272,272,tarjeta,2024,3,25,0,271.98956
+80,54,30,1,Alta Gracia,396,True,Limpieza,3,4875,4875,14625,efectivo,2024,3,25,0,14624.081
+80,54,39,1,Alta Gracia,396,True,Alimentos,5,469,469,2345,efectivo,2024,3,25,0,2348.0671
+80,54,41,1,Alta Gracia,396,True,Alimentos,5,860,860,4300,efectivo,2024,3,25,0,4296.28
+108,9,90,1,Carlos Paz,441,True,Limpieza,4,2902,2902,11608,tarjeta,2024,3,25,0,11608.471
+54,1,8,1,Carlos Paz,450,True,Limpieza,3,4218,4218,12654,tarjeta,2024,3,26,1,12654.575
+54,1,18,1,Carlos Paz,450,True,Limpieza,2,3444,3444,6888,tarjeta,2024,3,26,1,6863.143
+54,1,65,1,Carlos Paz,450,True,Alimentos,1,2423,2423,2423,tarjeta,2024,3,26,1,2782.0308
+54,1,91,1,Carlos Paz,450,True,Alimentos,3,4690,4690,14070,tarjeta,2024,3,26,1,14069.191
+101,72,34,1,Cordoba,381,True,Limpieza,4,503,503,2012,efectivo,2024,3,28,3,2011.9446
+102,18,36,1,Carlos Paz,436,True,Limpieza,3,2559,2559,7677,efectivo,2024,3,29,4,7674.868
+102,18,78,1,Carlos Paz,436,True,Limpieza,3,4289,4289,12867,efectivo,2024,3,29,4,12855.721
+60,81,15,2,Carlos Paz,379,True,Alimentos,1,2538,2538,2538,transferencia,2024,4,4,3,2537.5884
+60,81,21,2,Carlos Paz,379,True,Alimentos,2,272,272,544,transferencia,2024,4,4,3,919.4782
+60,81,43,2,Carlos Paz,379,True,Alimentos,1,887,887,887,transferencia,2024,4,4,3,886.90314
+60,81,91,2,Carlos Paz,379,True,Alimentos,4,4690,4690,18760,transferencia,2024,4,4,3,18760.592
+60,81,98,2,Carlos Paz,379,True,Limpieza,3,2843,2843,8529,transferencia,2024,4,4,3,8521.206
+11,20,13,2,Rio Cuarto,446,True,Alimentos,1,2383,2383,2383,qr,2024,4,10,2,2450.9705
+11,20,28,2,Rio Cuarto,446,True,Limpieza,1,936,936,936,qr,2024,4,10,2,936.32916
+11,20,65,2,Rio Cuarto,446,True,Alimentos,2,2423,2423,4846,qr,2024,4,10,2,4846.4136
+16,2,35,2,Carlos Paz,466,True,Alimentos,5,4430,4430,22150,efectivo,2024,4,12,4,22149.629
+14,67,36,2,Alta Gracia,407,True,Limpieza,4,2559,2559,10236,qr,2024,4,18,3,10232.358
+14,67,38,2,Alta Gracia,407,True,Limpieza,3,1584,1584,4752,qr,2024,4,18,3,4752.833
+14,67,72,2,Alta Gracia,407,True,Limpieza,5,3876,3876,19380,qr,2024,4,18,3,19380.896
+14,67,97,2,Alta Gracia,407,True,Alimentos,1,872,872,872,qr,2024,4,18,3,871.83234
+42,12,29,2,Alta Gracia,462,True,Alimentos,1,1868,1868,1868,tarjeta,2024,4,18,3,1868.9034
+42,12,47,2,Alta Gracia,462,True,Alimentos,3,2939,2939,8817,tarjeta,2024,4,18,3,8813.9795
+42,12,73,2,Alta Gracia,462,True,Alimentos,3,1561,1561,4683,tarjeta,2024,4,18,3,4682.943
+87,100,53,2,Cordoba,376,True,Alimentos,2,1664,1664,3328,qr,2024,4,20,5,3334.2542
+87,100,86,2,Cordoba,376,True,Limpieza,2,4090,4090,8180,qr,2024,4,20,5,8179.386
+120,72,20,2,Cordoba,405,True,Limpieza,5,1571,1571,7855,tarjeta,2024,4,21,6,7854.6675
+74,56,14,2,Rio Cuarto,426,True,Limpieza,2,1723,1723,3446,efectivo,2024,4,26,4,3445.9197
+74,56,32,2,Rio Cuarto,426,True,Limpieza,3,2234,2234,6702,efectivo,2024,4,26,4,6702.2793
+74,56,55,2,Rio Cuarto,426,True,Alimentos,2,1407,1407,2814,efectivo,2024,4,26,4,2526.808
+59,62,8,2,Carlos Paz,422,True,Limpieza,2,4218,4218,8436,tarjeta,2024,4,28,6,8432.817
+59,62,31,2,Carlos Paz,422,True,Alimentos,1,3409,3409,3409,tarjeta,2024,4,28,6,3411.6562
+59,62,97,2,Carlos Paz,422,True,Alimentos,5,872,872,4360,tarjeta,2024,4,28,6,4360.0874
+78,12,17,2,Alta Gracia,473,True,Alimentos,2,4834,4834,9668,qr,2024,4,29,0,9719.229
+78,12,37,2,Alta Gracia,473,True,Alimentos,3,3196,3196,9588,qr,2024,4,29,0,9589.711
+78,12,39,2,Alta Gracia,473,True,Alimentos,2,469,469,938,qr,2024,4,29,0,936.8614
+78,12,79,2,Alta Gracia,473,True,Alimentos,5,2420,2420,12100,qr,2024,4,29,0,12100.896
+78,12,85,2,Alta Gracia,473,True,Alimentos,1,1856,1856,1856,qr,2024,4,29,0,1855.0654
+25,13,55,2,Carlos Paz,473,True,Alimentos,1,1407,1407,1407,transferencia,2024,4,30,1,1407.567
+25,13,72,2,Carlos Paz,473,True,Limpieza,1,3876,3876,3876,transferencia,2024,4,30,1,4608.077
+25,13,95,2,Carlos Paz,473,True,Alimentos,5,1581,1581,7905,transferencia,2024,4,30,1,7904.942
+65,30,22,2,Alta Gracia,456,True,Limpieza,3,2069,2069,6207,qr,2024,4,30,1,6204.858
+65,30,36,2,Alta Gracia,456,True,Limpieza,4,2559,2559,10236,qr,2024,4,30,1,10239.464
+65,30,38,2,Alta Gracia,456,True,Limpieza,5,1584,1584,7920,qr,2024,4,30,1,7918.98
+65,30,77,2,Alta Gracia,456,True,Alimentos,4,4778,4778,19112,qr,2024,4,30,1,19111.738
+62,100,47,2,Cordoba,387,True,Alimentos,4,2939,2939,11756,transferencia,2024,5,1,2,11756.597
+62,100,95,2,Cordoba,387,True,Alimentos,3,1581,1581,4743,transferencia,2024,5,1,2,4742.611
+47,52,6,2,Rio Cuarto,438,True,Limpieza,3,4170,4170,12510,transferencia,2024,5,4,5,12509.428
+47,52,43,2,Rio Cuarto,438,True,Alimentos,5,887,887,4435,transferencia,2024,5,4,5,4434.7324
+6,91,25,2,Mendiolaza,400,True,Alimentos,2,4015,4015,8030,transferencia,2024,5,5,6,8030.312
+6,91,31,2,Mendiolaza,400,True,Alimentos,3,3409,3409,10227,transferencia,2024,5,5,6,10229.759
+6,91,59,2,Mendiolaza,400,True,Alimentos,4,3612,3612,14448,transferencia,2024,5,5,6,14443.945
+6,91,83,2,Mendiolaza,400,True,Alimentos,1,1830,1830,1830,transferencia,2024,5,5,6,1830.5378
+114,16,8,2,Rio Cuarto,475,True,Limpieza,1,4218,4218,4218,qr,2024,5,5,6,4581.486
+114,16,10,2,Rio Cuarto,475,True,Limpieza,1,4883,4883,4883,qr,2024,5,5,6,4882.994
+114,16,55,2,Rio Cuarto,475,True,Alimentos,5,1407,1407,7035,qr,2024,5,5,6,7035.0386
+114,16,84,2,Rio Cuarto,475,True,Limpieza,1,1645,1645,1645,qr,2024,5,5,6,1645.1892
+114,16,92,2,Rio Cuarto,475,True,Limpieza,4,2512,2512,10048,qr,2024,5,5,6,10046.292
+7,92,63,2,Alta Gracia,400,True,Alimentos,3,4337,4337,13011,efectivo,2024,5,6,0,13010.142
+22,64,9,2,Villa Maria,430,True,Alimentos,2,3878,3878,7756,transferencia,2024,5,8,2,8079.6885
+22,64,24,2,Villa Maria,430,True,Limpieza,4,1305,1305,5220,transferencia,2024,5,8,2,5218.8916
+22,64,28,2,Villa Maria,430,True,Limpieza,3,936,936,2808,transferencia,2024,5,8,2,2808.8389
+52,5,9,2,Cordoba,491,True,Alimentos,4,3878,3878,15512,tarjeta,2024,5,10,4,15512.094
+52,5,38,2,Cordoba,491,True,Limpieza,3,1584,1584,4752,tarjeta,2024,5,10,4,4835.8335
+52,5,81,2,Cordoba,491,True,Alimentos,5,2520,2520,12600,tarjeta,2024,5,10,4,12385.512
+52,5,83,2,Cordoba,491,True,Alimentos,2,1830,1830,3660,tarjeta,2024,5,10,4,3658.3904
+40,15,44,2,Cordoba,484,True,Limpieza,2,2979,2979,5958,efectivo,2024,5,13,0,5957.9756
+76,75,11,2,Rio Cuarto,426,True,Alimentos,2,2053,2053,4106,tarjeta,2024,5,15,2,4319.619
+76,75,22,2,Rio Cuarto,426,True,Limpieza,4,2069,2069,8276,tarjeta,2024,5,15,2,8282.138
+76,75,23,2,Rio Cuarto,426,True,Alimentos,4,2380,2380,9520,tarjeta,2024,5,15,2,9515.298
+76,75,24,2,Rio Cuarto,426,True,Limpieza,1,1305,1305,1305,tarjeta,2024,5,15,2,1304.7924
+23,78,64,2,Villa Maria,424,True,Limpieza,4,3953,3953,15812,transferencia,2024,5,16,3,15813.52
+23,78,83,2,Villa Maria,424,True,Alimentos,4,1830,1830,7320,transferencia,2024,5,16,3,7319.357
+73,42,19,2,Alta Gracia,460,True,Alimentos,1,3251,3251,3251,transferencia,2024,5,16,3,3251.9663
+73,42,24,2,Alta Gracia,460,True,Limpieza,3,1305,1305,3915,transferencia,2024,5,16,3,3921.025
+73,42,28,2,Alta Gracia,460,True,Limpieza,1,936,936,936,transferencia,2024,5,16,3,932.5178
+37,57,18,2,Rio Cuarto,446,True,Limpieza,3,3444,3444,10332,qr,2024,5,17,4,10330.828
+110,92,6,2,Alta Gracia,413,True,Limpieza,1,4170,4170,4170,efectivo,2024,5,19,6,4171.6484
+110,92,6,2,Alta Gracia,413,True,Limpieza,5,4170,4170,20850,efectivo,2024,5,19,6,20849.615
+110,92,59,2,Alta Gracia,413,True,Alimentos,3,3612,3612,10836,efectivo,2024,5,19,6,10836.307
+28,52,18,2,Rio Cuarto,454,True,Limpieza,2,3444,3444,6888,qr,2024,5,20,0,6888.158
+28,52,27,2,Rio Cuarto,454,True,Alimentos,5,2502,2502,12510,qr,2024,5,20,0,12510.32
+28,52,72,2,Rio Cuarto,454,True,Limpieza,1,3876,3876,3876,qr,2024,5,20,0,3878.365
+28,52,74,2,Rio Cuarto,454,True,Limpieza,1,2953,2953,2953,qr,2024,5,20,0,2948.8486
+28,52,91,2,Rio Cuarto,454,True,Alimentos,2,4690,4690,9380,qr,2024,5,20,0,9097.246
+107,14,5,2,Carlos Paz,493,True,Alimentos,4,4777,4777,19108,efectivo,2024,5,21,1,18628.422
+107,14,7,2,Carlos Paz,493,True,Alimentos,4,3269,3269,13076,efectivo,2024,5,21,1,13075.464
+107,14,11,2,Carlos Paz,493,True,Alimentos,2,2053,2053,4106,efectivo,2024,5,21,1,4106.4375
+107,14,12,2,Carlos Paz,493,True,Limpieza,4,570,570,2280,efectivo,2024,5,21,1,2078.6863
+31,19,84,2,Mendiolaza,489,True,Limpieza,5,1645,1645,8225,tarjeta,2024,5,22,2,8223.243
+31,19,90,2,Mendiolaza,489,True,Limpieza,3,2902,2902,8706,tarjeta,2024,5,22,2,8707.498
+31,19,92,2,Mendiolaza,489,True,Limpieza,4,2512,2512,10048,tarjeta,2024,5,22,2,10048.799
+75,61,2,2,Rio Cuarto,448,True,Limpieza,5,4973,4973,24865,qr,2024,5,23,3,24863.451
+75,61,3,2,Rio Cuarto,448,True,Alimentos,4,4964,4964,19856,qr,2024,5,23,3,19858.672
+77,55,34,2,Mendiolaza,457,True,Limpieza,5,503,503,2515,tarjeta,2024,5,26,6,2514.246
+77,55,39,2,Mendiolaza,457,True,Alimentos,2,469,469,938,tarjeta,2024,5,26,6,938.501
+77,55,41,2,Mendiolaza,457,True,Alimentos,1,860,860,860,tarjeta,2024,5,26,6,1063.4886
+77,55,53,2,Mendiolaza,457,True,Alimentos,2,1664,1664,3328,tarjeta,2024,5,26,6,3328.1443
+77,55,98,2,Mendiolaza,457,True,Limpieza,2,2843,2843,5686,tarjeta,2024,5,26,6,6002.3677
+10,52,36,2,Rio Cuarto,462,True,Limpieza,2,2559,2559,5118,qr,2024,5,28,1,5119.971
+10,52,37,2,Rio Cuarto,462,True,Alimentos,3,3196,3196,9588,qr,2024,5,28,1,9587.483
+10,52,62,2,Rio Cuarto,462,True,Limpieza,1,3848,3848,3848,qr,2024,5,28,1,4815.4395
+10,52,100,2,Rio Cuarto,462,True,Limpieza,4,4854,4854,19416,qr,2024,5,28,1,19415.998
+83,91,5,2,Mendiolaza,423,True,Alimentos,2,4777,4777,9554,efectivo,2024,5,28,1,9553.168
+83,91,26,2,Mendiolaza,423,True,Limpieza,2,1001,1001,2002,efectivo,2024,5,28,1,2002.6431
+83,91,51,2,Mendiolaza,423,True,Alimentos,2,1745,1745,3490,efectivo,2024,5,28,1,3477.9622
+83,91,73,2,Mendiolaza,423,True,Alimentos,5,1561,1561,7805,efectivo,2024,5,28,1,7805.825
+38,56,5,2,Rio Cuarto,459,True,Alimentos,3,4777,4777,14331,tarjeta,2024,5,29,2,14331.401
+38,56,14,2,Rio Cuarto,459,True,Limpieza,3,1723,1723,5169,tarjeta,2024,5,29,2,5168.1353
+38,56,62,2,Rio Cuarto,459,True,Limpieza,5,3848,3848,19240,tarjeta,2024,5,29,2,19239.998
+38,56,65,2,Rio Cuarto,459,True,Alimentos,5,2423,2423,12115,tarjeta,2024,5,29,2,12114.113
+35,61,80,2,Rio Cuarto,455,True,Limpieza,2,1981,1981,3962,efectivo,2024,5,30,3,3963.729
+35,61,88,2,Rio Cuarto,455,True,Limpieza,5,2570,2570,12850,efectivo,2024,5,30,3,12850.618
+35,61,93,2,Rio Cuarto,455,True,Alimentos,3,2142,2142,6426,efectivo,2024,5,30,3,6424.784
+61,27,9,2,Rio Cuarto,491,True,Alimentos,3,3878,3878,11634,efectivo,2024,6,1,5,11637.2
+61,27,19,2,Rio Cuarto,491,True,Alimentos,3,3251,3251,9753,efectivo,2024,6,1,5,9750.401
+49,5,18,2,Cordoba,514,True,Limpieza,3,3444,3444,10332,efectivo,2024,6,2,6,10571.773
+49,5,21,2,Cordoba,514,True,Alimentos,4,272,272,1088,efectivo,2024,6,2,6,1088.1713
+49,5,59,2,Cordoba,514,True,Alimentos,2,3612,3612,7224,efectivo,2024,6,2,6,8156.795
+49,5,59,2,Cordoba,514,True,Alimentos,4,3612,3612,14448,efectivo,2024,6,2,6,14448.287
+49,5,85,2,Cordoba,514,True,Alimentos,3,1856,1856,5568,efectivo,2024,6,2,6,5568.768
+71,40,11,2,Rio Cuarto,479,True,Alimentos,3,2053,2053,6159,qr,2024,6,2,6,6158.5244
+71,40,79,2,Rio Cuarto,479,True,Alimentos,4,2420,2420,9680,qr,2024,6,2,6,9678.993
+71,40,92,2,Rio Cuarto,479,True,Limpieza,1,2512,2512,2512,qr,2024,6,2,6,2513.9236
+71,40,100,2,Rio Cuarto,479,True,Limpieza,4,4854,4854,19416,qr,2024,6,2,6,19415.418
+109,64,18,2,Villa Maria,457,True,Limpieza,1,3444,3444,3444,transferencia,2024,6,4,1,3856.2705
+109,64,20,2,Villa Maria,457,True,Limpieza,2,1571,1571,3142,transferencia,2024,6,4,1,3142.1094
+109,64,44,2,Villa Maria,457,True,Limpieza,5,2979,2979,14895,transferencia,2024,6,4,1,14895.051
+109,64,74,2,Villa Maria,457,True,Limpieza,1,2953,2953,2953,transferencia,2024,6,4,1,2952.7812
+79,57,56,2,Rio Cuarto,466,True,Limpieza,2,2532,2532,5064,qr,2024,6,6,3,5061.221
+79,57,81,2,Rio Cuarto,466,True,Alimentos,2,2520,2520,5040,qr,2024,6,6,3,5041.7344
+100,69,9,2,Rio Cuarto,456,True,Alimentos,4,3878,3878,15512,qr,2024,6,8,5,15510.68
+100,69,13,2,Rio Cuarto,456,True,Alimentos,3,2383,2383,7149,qr,2024,6,8,5,7151.721
+100,69,18,2,Rio Cuarto,456,True,Limpieza,4,3444,3444,13776,qr,2024,6,8,5,13113.217
+100,69,57,2,Rio Cuarto,456,True,Alimentos,1,4520,4520,4520,qr,2024,6,8,5,4518.2573
+100,69,58,2,Rio Cuarto,456,True,Limpieza,2,4752,4752,9504,qr,2024,6,8,5,9506.966
+5,56,86,2,Rio Cuarto,472,True,Limpieza,4,4090,4090,16360,tarjeta,2024,6,11,1,16361.845
+18,81,4,2,Carlos Paz,447,True,Limpieza,5,2033,2033,10165,qr,2024,6,11,1,10165.457
+18,81,15,2,Carlos Paz,447,True,Alimentos,3,2538,2538,7614,qr,2024,6,11,1,7615.557
+18,81,22,2,Carlos Paz,447,True,Limpieza,5,2069,2069,10345,qr,2024,6,11,1,9846.5625
+18,81,24,2,Carlos Paz,447,True,Limpieza,2,1305,1305,2610,qr,2024,6,11,1,2606.8772
+18,81,33,2,Carlos Paz,447,True,Alimentos,2,1255,1255,2510,qr,2024,6,11,1,2511.468
+19,80,38,2,Mendiolaza,448,True,Limpieza,2,1584,1584,3168,efectivo,2024,6,11,1,3167.084
+19,80,63,2,Mendiolaza,448,True,Alimentos,3,4337,4337,13011,efectivo,2024,6,11,1,13011.7295
+19,80,98,2,Mendiolaza,448,True,Limpieza,3,2843,2843,8529,efectivo,2024,6,11,1,8526.265
+24,55,40,2,Mendiolaza,476,True,Limpieza,5,1215,1215,6075,tarjeta,2024,6,14,4,6075.869
+24,55,91,2,Mendiolaza,476,True,Alimentos,2,4690,4690,9380,tarjeta,2024,6,14,4,9379.684
+56,15,18,2,Cordoba,516,True,Limpieza,5,3444,3444,17220,qr,2024,6,14,4,15644.525
+97,39,4,2,Alta Gracia,494,True,Limpieza,3,2033,2033,6099,efectivo,2024,6,16,6,6097.798
+97,39,36,2,Alta Gracia,494,True,Limpieza,1,2559,2559,2559,efectivo,2024,6,16,6,2559.094
+97,39,59,2,Alta Gracia,494,True,Alimentos,5,3612,3612,18060,efectivo,2024,6,16,6,16520.605
+104,86,68,2,Cordoba,448,True,Limpieza,3,2684,2684,8052,qr,2024,6,17,0,8056.044
+104,86,68,2,Cordoba,448,True,Limpieza,5,2684,2684,13420,qr,2024,6,17,0,13417.63
+104,86,95,2,Cordoba,448,True,Alimentos,2,1581,1581,3162,qr,2024,6,17,0,3162.5464
+1,62,90,2,Carlos Paz,474,True,Limpieza,1,2902,2902,2902,tarjeta,2024,6,19,2,2902.3271
+21,10,35,2,Cordoba,526,True,Alimentos,1,4430,4430,4430,transferencia,2024,6,19,2,4429.8945
+21,10,76,2,Cordoba,526,True,Limpieza,5,4286,4286,21430,transferencia,2024,6,19,2,21429.844
+63,25,2,2,Rio Cuarto,511,True,Limpieza,2,4973,4973,9946,tarjeta,2024,6,19,2,9945.886
+63,25,8,2,Rio Cuarto,511,True,Limpieza,5,4218,4218,21090,tarjeta,2024,6,19,2,21090.945
+63,25,45,2,Rio Cuarto,511,True,Alimentos,4,745,745,2980,tarjeta,2024,6,19,2,2980.366
+63,25,70,2,Rio Cuarto,511,True,Limpieza,3,4061,4061,12183,tarjeta,2024,6,19,2,12181.62
+88,37,7,2,Mendiolaza,501,True,Alimentos,5,3269,3269,16345,efectivo,2024,6,21,4,16344.549
+88,37,8,2,Mendiolaza,501,True,Limpieza,4,4218,4218,16872,efectivo,2024,6,21,4,16836.852
+88,37,53,2,Mendiolaza,501,True,Alimentos,5,1664,1664,8320,efectivo,2024,6,21,4,8319.955
+36,5,48,2,Cordoba,537,True,Limpieza,2,4462,4462,8924,tarjeta,2024,6,25,1,8924.091
+36,5,50,2,Cordoba,537,True,Limpieza,4,727,727,2908,tarjeta,2024,6,25,1,2819.1582
+15,56,37,2,Rio Cuarto,488,True,Alimentos,3,3196,3196,9588,transferencia,2024,6,27,3,9586.441
+12,96,38,2,Cordoba,449,True,Limpieza,4,1584,1584,6336,efectivo,2024,6,28,4,6337.483
+12,96,50,2,Cordoba,449,True,Limpieza,2,727,727,1454,efectivo,2024,6,28,4,1453.0309
+12,96,56,2,Cordoba,449,True,Limpieza,3,2532,2532,7596,efectivo,2024,6,28,4,7595.573
+12,96,72,2,Cordoba,449,True,Limpieza,2,3876,3876,7752,efectivo,2024,6,28,4,8034.6543
+12,96,87,2,Cordoba,449,True,Alimentos,3,1679,1679,5037,efectivo,2024,6,28,4,5036.8784
+68,27,94,2,Rio Cuarto,518,True,Limpieza,4,1418,1418,5672,qr,2024,6,28,4,5671.926

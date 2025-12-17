@@ -91,7 +91,7 @@ tienda-aurelion/
 ⚙️ Instalación
 1. Clonar el repositorio
 Código
-git clone https://github.com/usuario/tienda-aurelion.git
+git clone https://github.com/ChristianMadoz/ml_app
 cd tienda-aurelion
 
 2. Crear entorno conda
